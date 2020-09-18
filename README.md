@@ -1,8 +1,7 @@
 # .cubes
-A local server that hosts an interactive sample-based musical canvas.
+A three.js website that hosts an interactive sample-based musical canvas.
 
 ## three.js
-========
 [![NPM Package][npm]][npm-url]
 
 To run this code:
